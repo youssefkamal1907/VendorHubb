@@ -1,1 +1,1 @@
-"frontend code" 
+"frontend component" 
